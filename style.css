@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#isInvincible{
+    width: 50px;
+}
